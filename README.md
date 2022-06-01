@@ -1,4 +1,4 @@
-# A-Feature-Extraction-Framework-for-Measuring-Auditory-Similarity-Between-Sounds
+# A Feature Extraction Framework for Measuring Auditory Similarity Between Sounds
 Code related to the master's thesis titled "A Feature Extraction Framework for Measuring Auditory Similarity Between Sounds"
 
 A URL might come here when it is published.
